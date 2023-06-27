@@ -1,0 +1,13 @@
+<template>
+  <router-view></router-view>
+</template>
+<script setup></script>
+<style lang="scss">
+#app {
+  font-family: PingFangSC-Regular;
+  font-size: 3.733vw;
+  font-weight: normal;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+</style>
